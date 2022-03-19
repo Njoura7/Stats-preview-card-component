@@ -57,12 +57,13 @@ I will definetly focus more on learning more details about vh and vw and more ti
 
 ## Acknowledgments
 Those are my heros heroes that I am following right now and who are helping me in almost every single step and project:
-Youtube channels:
-*Kevin Powell*
 
-*Web Dev Simplified*
+### Youtube channels:
+[*Kevin Powell*] (https://www.youtube.com/kepowob)
 
-*Traversy Media* 
+[*Web Dev Simplified*] (https://www.youtube.com/c/WebDevSimplified)
 
-*Dave Gray*
+[*Traversy Media* ] (https://www.youtube.com/c/TraversyMedia)
+
+[*Dave Gray*] (https://www.youtube.com/c/DaveGrayTeachesCode)
 
