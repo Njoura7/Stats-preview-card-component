@@ -48,8 +48,8 @@ I will definetly focus more on learning more details about vh and vw and more ti
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
+- [Youtube](https://www.youtube.com) - Youtube is a very hellpful recources for all developers, I mean you just need to tape your bug or where did you have an issue and a ton of tutorials will appear.
+-  [Stackoverflow](https://stackoverflow.com/) - This is the place where almost all the developers of the word meet, lot of them have experiences and are willing to help but also lot of them are just looking for help, So it's a great community and great resource for sure.
 ## Author
 
 - Website - [Njoura7](https://github.com/Njoura7)
